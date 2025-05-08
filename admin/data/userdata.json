@@ -1,0 +1,168 @@
+{
+    "full_name": "Asad",
+    "username": "asad",
+    "email": "asadmim70@gmail.com",
+    "phone_number": "01304396884",
+    "password": "$2y$10$bum4sf.8BcU.p1JjjSRs0eEEj6vfjsF2ICM3NoiGtiSmNDJbCru\/a",
+    "role": "super_admin",
+    "employee_id": "121",
+    "address": "rajshahi",
+    "security_question": "school_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_50_04_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Masud",
+    "username": "masud",
+    "email": "masud@gmail.com",
+    "phone_number": "01521771420",
+    "password": "$2y$10$ZJEDEryfGkUH0RxcLGby4uSYUOC49HmQyJxQBww2ccFxBXl6Jju16",
+    "role": "super_admin",
+    "employee_id": "123",
+    "address": "dhaka",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_50_04_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "md.masud khan",
+    "username": "masud",
+    "email": "22-46582-1@student.aiub.edu",
+    "phone_number": "01304396884",
+    "password": "$2y$10$UFrXdwkDqvEqlZ3A3xhSj.Ew\/ComVcTc0PNP595iI.A5oTf4TdDTC",
+    "role": "super_admin",
+    "employee_id": "121",
+    "address": "rajshahi",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_50_04_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Md.Asad-uz-zaman",
+    "username": "asad",
+    "email": "asad@gmail.com",
+    "phone_number": "01304396884",
+    "password": "$2y$10$R3F7ysJSZfk0Wx5tpHcmcuyz4lV5fyYOmyO2lqbAhAiKO.\/Bxl7Kq",
+    "role": "super_admin",
+    "employee_id": "121",
+    "address": "rajshahi",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_48_56_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Ratul khan",
+    "username": "Ratul",
+    "email": "ratul@gmail.com",
+    "phone_number": "01521771420",
+    "password": "$2y$10$QpBCl3PGDz.wCAo45Yq92.uF3IcfUslDjo9xJaRMj0GQOg9oa9\/6O",
+    "role": "super_admin",
+    "employee_id": "111",
+    "address": "dhaka",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_49_18_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Md.Asad-uz-zaman",
+    "username": "asad",
+    "email": "asad@gmail.com",
+    "phone_number": "01304396884",
+    "password": "$2y$10$u\/oQDhzJUObM36zEZx.9peN\/Ov1ugWMXj5SS6GObq4nqsSJjiyzLK",
+    "role": "super_admin",
+    "employee_id": "121",
+    "address": "rajshahi",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_49_18_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Md.Asad-uz-zaman",
+    "username": "asad",
+    "email": "asad@gmail.com",
+    "phone_number": "01304396884",
+    "password": "$2y$10$UaXzQXFczfWYmGW8FXgQL.AeR3CadCoL.WHh9VFdWsFT7wRSTIyIW",
+    "role": "super_admin",
+    "employee_id": "121",
+    "address": "rajshahi",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/WIN_20220211_14_49_18_Pro.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "MD.MAHMUDUL HASAN",
+    "username": "Mahmud",
+    "email": "mahmud@gmail.com",
+    "phone_number": "01566834512",
+    "password": "$2y$10$Yd6VAz4g4TSvqKbDyrLMWun4nQzVzF\/bhaQXyTiiZfMduXjYgp.Ua",
+    "role": "system_admin",
+    "employee_id": "123",
+    "address": "Rajshahi,Bangladesh",
+    "security_question": "birth_city",
+    "profile_picture": "..\/uploads\/profile_pictures\/dog-8198719_1280.webp",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "MD.MAHMUDUL HASAN",
+    "username": "Mahmud",
+    "email": "22-46582-1@student.aiub.edu",
+    "phone_number": "01566834512",
+    "password": "$2y$10$ClsQAgUGTLJdGA.U\/7VYzem5qoUseRTXzwooWo75n6t6no44mK\/Ru",
+    "role": "system_admin",
+    "employee_id": "1234",
+    "address": "Rajshahi,Bangladesh",
+    "security_question": "school_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/images.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Rongon Saha",
+    "username": "Rongon",
+    "email": "rongonkumar27@gmail.com",
+    "phone_number": "01772866428",
+    "password": "$2y$10$hIdKXLkDjGSOe8OcGBl..OXqZ82huSlbjZXqGEplAZ7Un.kKd18hu",
+    "role": "super_admin",
+    "employee_id": "12",
+    "address": "Dhaka, Bangladesh",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/Screenshot 2025-01-26 134755.png",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "Md. Imtiaz",
+    "username": "imtiaz",
+    "email": "imtiaz@gmail.com",
+    "phone_number": "01304396884",
+    "password": "$2y$10$IMgKiWqBBPd5zYGkl\/riWu8KKoHJcpxCyZKsKaMQC5YqBVCL\/\/5gW",
+    "role": "super_admin",
+    "employee_id": "112",
+    "address": "rajshahi",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/Football_Pallo_valmiina-cropped.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
+{
+    "full_name": "tasnim mollik",
+    "username": "tasnim",
+    "email": "tasnim@gmail.com",
+    "phone_number": "01521771420",
+    "password": "$2y$10$mrM\/msItDONZDhxSUrMNg.wHQqvImU56hZjy\/7smNlXxToxuYrujO",
+    "role": "super_admin",
+    "employee_id": "123",
+    "address": "dhaka",
+    "security_question": "pet_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/images.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
