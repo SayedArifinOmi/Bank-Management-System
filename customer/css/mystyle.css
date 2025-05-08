@@ -1,0 +1,118 @@
+/* General reset for margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Centered form container */
+form {
+  width: 50%; /* Set the width of the form to 50% of the viewport for a desktop */
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-top: 30px; /* Add some space from the top */
+  text-align: left;
+}
+
+/* Styling for the legend tag (Customer Sign-Up, Customer Login) */
+legend {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #4CAF50; /* Green color for the title */
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Form Heading */
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+}
+
+/* Table Styling for Inputs */
+table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+table td {
+  padding: 12px;
+  vertical-align: top;
+}
+
+table td label {
+  font-weight: 600;
+  color: #555;
+  display: block;
+  margin-bottom: 6px;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="date"] {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+/* Button Styling */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1em;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Link Styling */
+.signup-link, .login-link {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1em;
+}
+
+.signup-link a, .login-link a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.signup-link a:hover, .login-link a:hover {
+  text-decoration: underline;
+}
+
+/* Additional Responsive Adjustments (for desktop focus) */
+@media (min-width: 1024px) {
+  form {
+      width: 40%; /* For large desktop screens, set width to 40% */
+  }
+}
